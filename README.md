@@ -3,7 +3,9 @@ Demo of generating auth token using XPO OAuth
 This is a MVC app which is configured with the Auth XPO Identity provider. 
 
 Authority : https://login-sandbox.authxpo.com
+
 ClientId : xpo-transport-google-products
+
 ClientSecret : xxx
 
 Scopes available - openid, name, xpo-tran-google-api. 
