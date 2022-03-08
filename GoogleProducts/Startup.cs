@@ -42,7 +42,7 @@ namespace GoogleProducts
                     options.Authority = "https://login-sandbox.authxpo.com";
 
                     options.ClientId = "xpo-transport-google-products";
-                    options.ClientSecret = "ZmjiEbj1Wh0nbJzU7iCnkR8LeIYubzJ5ceq9Mt9iEFn4DAcWjLOBqv15AETFPvZ4";
+                    options.ClientSecret = "<<clientsecret>>";
                     options.ResponseType = "code id_token";
                     options.Scope.Clear();
                     options.Scope.Add ("openid");
